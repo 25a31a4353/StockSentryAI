@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "timestamp": "2026-10-30T15:56:45+0530",
+  "primaryMetric": "Mean Precision@20 per Store-Day",
+  "precisionAt20": 0.405495,
+  "ceilingPrecisionAt20": 0.865596,
+  "shareOfCeiling": 0.468457,
+  "rowRecall": 0.41432,
+  "episodeRecall": 0.209554,
+  "delistedDecoyShare": 0.022612,
+  "typeAccuracy": 0.761477,
+  "totalStoreDaysScored": 1183,
+  "totalHits": 9594,
+  "totalPositiveRowsInTruth": 23156
+}
